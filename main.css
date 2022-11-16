@@ -1,0 +1,31 @@
+* {
+    font-family: 'Playfair Display', serif;
+    color: #ddd;
+    letter-spacing: 1px;;
+}
+
+body {
+    background-image: linear-gradient(rgba(0,0,0,0.7), rgba(0,0,0,0.7)), url('https://images.pexels.com/photos/830891/pexels-photo-830891.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1');
+    height: 100vh;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+}
+
+.company-name {
+    display: inline-block;
+    color: white;
+    background: rgb(128, 128, 128, 0.2);
+    padding: 2rem 6rem;
+    border-radius: 20px;
+}
+
+.text-container {
+    text-align: center;
+    padding-top: 15%;
+}
+
+.banner-text {
+    font-style: italic;
+}
+
